@@ -34,3 +34,6 @@ Kotlin for Android development.
 Django for backend services.
 Retrofit for API integration.
 Firebase for real-time database and notifications.
+
+Figma/Design Link:
+https://www.figma.com/design/2cN7Vly5n7FtkeDud5zpDA/TOTOSTEPS-HIGH-FIDELITY?node-id=0-1&t=P8lBRrnb7kAqxkEu-1
